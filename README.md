@@ -162,7 +162,7 @@ The dashboard is structured into four analytical segments:
 
 ## Report Link
 
-### Workforce Overview : 
+### Workforce Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/c7a3bae30f117755e6690cae1add8d7718fa757d/03.WORKFORCE.png
 
 ### Hiring & Experience Overview : 
 
