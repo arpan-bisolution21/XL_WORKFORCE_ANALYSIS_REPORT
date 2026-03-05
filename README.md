@@ -166,9 +166,9 @@ The dashboard is structured into four analytical segments:
 
 ### Hiring & Experience Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/e95421fc38537dd4d994b7fd4287f06cec3cc661/04.HIRING.png
 
-### Compensation & Salary Overview : 
+### Compensation & Salary Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/d275fda9f33c4f4cb64f0ba112da9e8a8788aa1c/05.SALARY.png
 
-### Pay Extremes Overview :
+### Pay Extremes Overview : 
 
 ---
 
