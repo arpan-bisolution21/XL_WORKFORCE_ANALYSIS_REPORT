@@ -158,7 +158,7 @@ The Report is structured into Four Analytical Segments:
 
 ### Compensation & Salary Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/b75a6d425a35fe161df9b0f7362f51a7e80ef5f1/05.SALARY.png
 
-### Pay Extremes Overview : 
+### Pay Extremes Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/d2ea72b7a264a9d5e0c64d78c7d8371e50e23cd9/06.EXTREMES.png 
 
 ---
 
