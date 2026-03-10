@@ -152,13 +152,13 @@ The Report is structured into Four Analytical Segments:
 
 ## Report Link
 
-### Workforce Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/c7a3bae30f117755e6690cae1add8d7718fa757d/03.WORKFORCE.png
+### Workforce Overview : 
 
-### Hiring & Experience Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/e95421fc38537dd4d994b7fd4287f06cec3cc661/04.HIRING.png
+### Hiring & Experience Overview : 
 
-### Compensation & Salary Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/d275fda9f33c4f4cb64f0ba112da9e8a8788aa1c/05.SALARY.png
+### Compensation & Salary Overview : 
 
-### Pay Extremes Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/599de4479f6242e2d9081b6994ffde89f2e1a3b0/06.EXTREMES.png
+### Pay Extremes Overview : 
 
 ---
 
