@@ -152,7 +152,7 @@ The Report is structured into Four Analytical Segments:
 
 ## Report Link
 
-### Workforce Overview : 
+### Workforce Overview : https://github.com/arpan-bisolution21/XL_WORKFORCE_ANALYTICS_REPORT/blob/69579cfab798c3b1b49d34a36206224eab6d955b/03.WORKFORCE.png
 
 ### Hiring & Experience Overview : 
 
