@@ -182,4 +182,4 @@ The project showcases the integration of **Power Query, Power Pivot, DAX measure
 
 ### 🔎 Project Classification  
 
-Business Intelligence | Workforce Analytics | HR Analytics | Compensation Analysis | Payroll Insights | Excel Dashboard
+Business Intelligence | Workforce Analytics | HR Analytics | Compensation Analysis | Payroll Insights | Excel Dashboards 
