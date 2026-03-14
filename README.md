@@ -51,16 +51,16 @@ The Report is structured into Four Analytical Segments:
 
 ## Data Overview
 
-- **Total Workforce:** 10,000 Employees  
-- **Average Age:** 40.48 Years  
-- **Average Tenure:** 9.72 Years  
-- **Average Salary:** $119,169  
-- **Median Salary:** $118,632  
+- Total Workforce: 10,000 Employees  
+- Average Age: 40.48 Years  
+- Average Tenure: 9.72 Years  
+- Average Salary: $119,169  
+- Median Salary: $118,632  
 
-**Workforce Stability:**
+Workforce Stability:
 - Experienced Workforce (>5 Years): 60.88%
 
-**Experience Distribution:**
+Experience Distribution:
 - <1 Year Experience: 1,212 Employees  
 - 3+ Years Experience: 7,282 Employees  
 - 5+ Years Experience: 6,088 Employees  
@@ -71,7 +71,7 @@ The Report is structured into Four Analytical Segments:
 ## Tools & Techniques
 
 ### Data Preparation
-- Dataset Transformations using **Power Query**
+- Dataset Transformations using Power Query
 - Creation of Calculated Columns including:
   - Age Buckets
   - Experience Buckets
@@ -79,8 +79,8 @@ The Report is structured into Four Analytical Segments:
   - Hiring Periods
 
 ### Data Modeling & Analysis
-- **Power Pivot Data Model**
-- **DAX Measures** for:
+- Power Pivot Data Model
+- DAX Measures for:
   - Workforce KPIs
   - Payroll Calculations
   - Salary Distributions 
@@ -89,9 +89,9 @@ The Report is structured into Four Analytical Segments:
 ### Visualization
 - Multi-Paged Excel Analytical Dashboards:
   - Workforce Overview
-  - Hiring & Experience Insights
-  - Compensation & Payroll Analysis
-  - Salary Extremes Analysis
+  - Hiring & Experience Overview 
+  - Compensation & Salary Overview 
+  - Pay Extremes Overview 
 
 ---
 
@@ -117,20 +117,20 @@ The Report is structured into Four Analytical Segments:
 
 ### 3️⃣ Compensation & Salary Overview
 
-- Total Organizational Payroll exceeds **$119M**.
-- Average Salary is **$119K**, closely aligned with the Median Salary.
-- Employees with **10+ Years Of Experience earn the Highest Average Salaries**.
+- Total Organizational Payroll exceeds $119M.
+- Average Salary is $119K, closely aligned with the Median Salary.
+- Employees with 10+ Years Of Experience earn the Highest Average Salaries.
 - Payroll Concentration increases significantly across Higher Salary Bands.
 
 ---
 
 ### 4️⃣ Pay Extremes Overview
 
-- Maximum salary recorded: **$199,971**
-- Minimum salary recorded: **$40,007**
-- Salary Range within the Organization Exceeds **$159K**.
-- Payroll Concentration is the Highest in the **South Region**.
-- Employees with **10+ Years Of Experience account for the Largest Payroll Share**.
+- Maximum salary recorded: $199,971
+- Minimum salary recorded: $40,007
+- Salary Range within the Organization Exceeds $159K.
+- Payroll Concentration is the Highest in the South Region.
+- Employees with 10+ Years Of Experience account for the Largest Payroll Share.
 
 ---
 
