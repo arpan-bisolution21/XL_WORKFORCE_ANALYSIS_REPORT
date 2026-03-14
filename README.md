@@ -42,10 +42,10 @@ The report provides insights into:
 
 The Report is structured into Four Analytical Segments:
 
-1. **Workforce Overview**  
-2. **Hiring & Experience Overview**  
-3. **Compensation & Salary Overview**  
-4. **Pay Extremes Overview**
+1. Workforce Overview  
+2. Hiring & Experience Overview 
+3. Compensation & Salary Overview 
+4. Pay Extremes Overview
 
 ---
 
@@ -100,17 +100,17 @@ Experience Distribution:
 ### 1️⃣ Workforce Overview
 
 - Workforce Distribution is balanced between Male and Female Employees.
-- The Majority Of Employees fall within the **25–54 Age Range**, indicating a Matured Workforce Structure.
-- The **South Region has the Largest Workforce Concentration**.
-- Workforce Stability is strong with over **60% Employees having 5+ Years Of Experience**.
+- The Majority Of Employees fall within the 25–54 Age Range, indicating a Matured Workforce Structure.
+- The South Region has the Largest Workforce Concentration.
+- Workforce Stability is strong with over 60% Employees having 5+ Years Of Experience.
 
 ---
 
 ### 2️⃣ Hiring & Experience Overview
 
-- Hiring Distribution between **H1 and H2 remains Relatively Balanced**.
-- The Highest Hiring Volume occurs during **Q2**.
-- Most Employees have **3+ Years Of Experience**, showing strong Workforce Maturity.
+- Hiring Distribution between H1 and H2 remains Relatively Balanced.
+- The Highest Hiring Volume occurs during Q2.
+- Most Employees have 3+ Years Of Experience, showing strong Workforce Maturity.
 - Recently Hired Employees represent a Smaller Portion of the Workforce compared to Experienced Staffs.
 
 ---
