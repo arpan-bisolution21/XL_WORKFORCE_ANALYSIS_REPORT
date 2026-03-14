@@ -1,5 +1,5 @@
-#   Workforce Analytics Report   
-### Advanced Excel HR Analytics Dashboards
+#   Workforce Analysis Report   
+### Advanced Excel HR Analytical Dashboards
 
 ---
 
