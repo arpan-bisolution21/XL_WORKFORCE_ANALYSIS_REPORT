@@ -166,7 +166,7 @@ Experience Distribution:
 
 This Project was developed as part of a Business Intelligence Portfolio Initiative, demonstrating how Advanced Excel capabilities can be used to transform Workforce Data into Actionable Insights.
 
-The project showcases the integration of **Power Query, Power Pivot, DAX measures, and Analytical Dashboards** for Workforce Analytics.
+The project showcases the integration of Power Query, Power Pivot, DAX measures, and Analytical Dashboards for Workforce Analytics.
 
 ---
 
